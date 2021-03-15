@@ -11,5 +11,9 @@ This project is a simple Lane line detection algorithm made using elementary pri
 
 ## I have included a sample video and a sample .csv file in the repo. Note that you will have to change the paths to files in the code.
 
+# Example
+
+[![Lane Detection Algorithm using Elementary Image processing concepts](https://yt-embed.herokuapp.com/embed?v=sHdqEl19-gk)](https://www.youtube.com/watch?v=sHdqEl19-gk "Lane Detection Algorithm using Elementary Image processing concepts")
+
 ## Disclaimer
 The video used in this project is not mine and I have no claims over it.
